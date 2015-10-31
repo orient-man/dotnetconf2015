@@ -20,7 +20,7 @@ Silne przenikanie paradygmatu funkcyjnego do obiektowego, w pierwotnych założe
 
 - Basic, Turbo Pascal/C, Assembler, Clipper, MS Access, Visual Basic, Java-XML :), C++, C#, JavaScript, F#...  i ze wszystkiego miałem frajdę, ale nie za wszystkim tęsknię.
 
-- Absolwent informatyki i matematyki na UW. Tech lead w firmie Piątka.
+- Absolwent informatyki i matematyki na UW. ~~Tech lead w firmie Piątka~~ Ekspert IT w mBanku.
 
 ***
 
